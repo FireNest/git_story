@@ -1,0 +1,32 @@
+html 
+{
+    background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(65deg, purple 50% , #eee 50% );
+    min-height: 1000px;
+    font-family: 'helvetica nue';
+    
+
+}
+
+
+
+
+/* class tags */
+.box
+{
+    max-width: 400px;
+    margin: 50px auto;
+    background: purple;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    box-shadow: 5px 5px 15px 5px black;
+
+
+}
+
+
+
+
+
+
