@@ -9,12 +9,12 @@
 .item
 {
     max-width: 400px;
+    min-height: 70px;                           /*brought some changes after first commit */
+    display: grid;                              /*brought some changes after first commit */
     color:purple;
     background-color: #eee;
     margin: 50px auto;
-    text-align: center;
-
-
-
+    align-items: center;                         /*brought some changes after first commit */ 
+    border-bottom: 1px solid #F1F1F1;      /*brought some changes after first commit /*
 
 }
