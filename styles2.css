@@ -8,7 +8,7 @@
 }
 .item
 {
-    max-width: 400px;
+                                                /*brougth some changes after second commit*/
     min-height: 70px;                           /*brought some changes after first commit */
     display: grid;                              /*brought some changes after first commit */
     color:purple;
