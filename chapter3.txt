@@ -1,1 +1,60 @@
 this is chapter3.txt created after 3rd commit and lets see if we can use git checkout here.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>styles version control </title>
+    <link rel="stylesheet" href="styles1.css">
+    <link rel="stylesheet" href="styles2.css">
+    <link rel="stylesheet" href="styles3.css">
+
+</head>
+<body>
+    <div class="box">
+        <h1 id="heading3"> styles1.css begins here </h1>
+    </div>
+    <div class="box">
+    <ul>
+        <li>buy food</li>
+        <li>cook food</li>
+        <li>eat food </li>
+
+    </ul>
+    <h2> styles1.css ends here </h2>
+    </div>
+    <div class="boxes">
+    <h1 >styles2.css begins here </h1>
+    </div>
+
+    <div class="item">
+         <input type="checkbox">
+        <p> do shopping </p>
+        <input type="checkbox">
+        <p> earn points </p>
+        <input type="checkbox">
+        <p> generate passive income </p>
+        <p> create business partners </p>
+        <form action="/" method="post" >
+        <input type="text" name="newItem">
+        <button type="submit" name="list"> add</button>
+
+    </form>
+         </div>
+        </div>
+        <div class="box3">
+        <div class="item3">
+            <p>styles3.css begins here after 2nd commit</p>
+            <p>buy cars</p>
+            <p> use cars </p>
+            <p> sell cars </p>
+
+        </div>
+        </div>
+        </body>
+
+
+</body>
+</html>
